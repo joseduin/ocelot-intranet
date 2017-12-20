@@ -1,0 +1,21 @@
+.btn-circle {
+	width: 15px;
+    height: 15px;
+}
+.roles {
+	text-align: left;
+}
+.roles div {
+	margin-left: 20px;
+}
+.roles div label {
+	width: 100%;
+}
+.file-box{
+  width:200px;
+}
+
+
+.chosen-container.chosen-with-drop .chosen-drop {
+    position: relative;
+}
