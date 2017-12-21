@@ -1,34 +1,4 @@
-git checkout master
-git pull origin master
-git merge test
-git push origin master
+#Ocelot Web-Desktop
 
-git add filename.c
-git commit -m "made some wild and crazy changes"
-git pull origin master
-
-
-
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
-
-
-Welcome to your Rails project on Cloud9 IDE!
-
-To get started, just do the following:
-
-1. Run the project with the "Run Project" button in the menu bar on top of the IDE.
-2. Preview your new app by clicking on the URL that appears in the Run panel below (https://fox-desktop-joseduin.c9users.io/).
-
-Happy coding!
-The Cloud9 IDE team
-
-
-## Support & Documentation
-
-Visit http://docs.c9.io for support, or to learn more about using Cloud9 IDE. 
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+![imagen1](https://user-images.githubusercontent.com/19161796/34216498-e4aa1d60-e57e-11e7-9bb1-e1eca80f74d8.jpg)
+![sin titulo](https://user-images.githubusercontent.com/19161796/34216561-0a2f8b24-e57f-11e7-86d1-d95f8b65902f.png)
